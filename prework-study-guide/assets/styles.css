@@ -14,7 +14,7 @@ h2 {
   text-align: center;
 }
 img {
-  display: block;
+  display: flex;
   height: 50px;
   width: 50px;
   margin-left: auto;
